@@ -1,3 +1,8 @@
 # Gen-AI
 
-https://github.com/Baishaki-sfdc/image-caption
+[Image Caption using AI }https://github.com/Baishaki-sfdc/image-caption
+
+
+[Voice to art Generator]https://github.com/Baishaki-sfdc/audio-image
+
+[AI Journal]https://github.com/Baishaki-sfdc/AI-Journal
