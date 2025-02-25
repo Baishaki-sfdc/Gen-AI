@@ -1,4 +1,4 @@
-# Gen-AI
+# Gen-AI Projects
 
 [Image Caption using AI](https://github.com/Baishaki-sfdc/image-caption)
 
