@@ -12,3 +12,4 @@
 [Chat with Doc](https://github.com/Baishaki-sfdc/RAG-llamaindex-groq)
 
 [k Agent using LangGraph] ()
+[AI powered Fashion Bot](https://github.com/Baishaki-sfdc/StyleSynth/tree/main)
