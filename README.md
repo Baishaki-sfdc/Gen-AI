@@ -13,3 +13,6 @@
 
 
 [AI powered Fashion Bot](https://github.com/Baishaki-sfdc/StyleSynth/tree/main)
+
+
+[AI travel planner](https://github.com/Baishaki-sfdc/Travel_agent/blob/main/main.py)
