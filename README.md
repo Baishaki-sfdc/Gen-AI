@@ -17,4 +17,4 @@
 
 [AI travel planner](https://github.com/Baishaki-sfdc/Gen-AI/blob/main/README.md)
 
-[AI powered flight bot] (https://github.com/Baishaki-sfdc/Flight-Bot)
+[AI powered flight bot](https://github.com/Baishaki-sfdc/Flight-Bot)
