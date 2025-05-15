@@ -12,6 +12,6 @@
 [AI powered Fashion Bot](https://github.com/Baishaki-sfdc/StyleSynth/tree/main)
 
 
-[AI travel planner](https://github.com/Baishaki-sfdc/Gen-AI/blob/main/README.md)
+[AI travel planner](https://github.com/Baishaki-sfdc/Travel_agent)
 
 [AI powered flight bot](https://github.com/Baishaki-sfdc/Flight-Bot)
